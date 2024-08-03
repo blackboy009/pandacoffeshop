@@ -25,3 +25,12 @@
     color: brown;
     border: 2px solid black;
 }
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.img-footer{
+    width: 100px;
+}
